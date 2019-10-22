@@ -93,6 +93,6 @@ public enum ItemType
     Weapon,
     Quest,
     Misc,
-    Money
-    
+    Money,
+    All
 }
