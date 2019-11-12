@@ -296,14 +296,14 @@ MonoBehaviour:
   togglesTogglable: 0
   scrW: 0
   scrH: 0
-  radialTexture: {fileID: 0}
-  slotTexture: {fileID: 0}
+  radialTexture: {fileID: 2800000, guid: 631703b317a3cf94ba38614eb1e21713, type: 3}
+  slotTexture: {fileID: 2800000, guid: d2bf7bb4e05db754a9310e9b8f500487, type: 3}
   circleScaleOffset: 0
   iconSize: {x: 0, y: 0}
   showIcons: 1
   showBoxes: 1
   showBounds: 1
-  iconSizeNum: 0
+  iconSizeNum: 1
   radialRotation: 0
   iconOffset: 0
   mouse: {x: 0, y: 0}
@@ -315,8 +315,8 @@ MonoBehaviour:
   inputIndex: 0
   slotPos: []
   boundPos: []
-  numOfSectors: 1
-  circleRadius: 0
+  numOfSectors: 8
+  circleRadius: 150
   mouseDistance: 0
   sectorDegree: 0
   mouseAngles: 0
