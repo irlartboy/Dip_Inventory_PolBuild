@@ -183,7 +183,7 @@ public static class ItemData
                 _armour = 5;
                 _amount = 1;
                 break;
-            case 203:
+            case 403:
                 _name = "Boots";
                 _value = 20;
                 _description = "A pair of boots";
